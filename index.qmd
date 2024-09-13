@@ -1,0 +1,13 @@
+---
+title: "Group 21-Xiaolu Ji"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+
+Hi everyone, my name is Xiaolu Ji, feel free to call me Madeline if the pronunciation is hard. I am a third-year student majoring in math and statistics. It's a pleasure to meet you guys this semester, can't wait to get to know everyone:)
